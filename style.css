@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap');
+
+body {
+    font-family: 'Arial', Helvetica, sans-serif;
+    background-image: url(../proyecto-coderhouse/images/fondo.png);
+    background-repeat: repeat;
+
+}
+h1,
+h2 {
+    color: rgb(134, 75, 3);
+    text-align: center;  
+} 
+
+p,
+label{
+    color: rgb(151, 123, 80);
+    font-family: 'Arial', sans-serif;
+    line-height: 1.2em;
+    padding: 10px;
+}
+
+header{
+    background-color: white;
+}
+header a img{
+    height: 20em;
+    width: 100%;
+    
+}
+
+
+
+nav ul li a{
+             color: white !important;
+             }
+ 
+
+
+    
+.text-center{
+    text-align: center;
+}
+
+.conteiner{
+    
+    background-color: rgba(0, 0, 0, 0.548);
+
+
+    
+}
+.imagen-center{
+    margin: 20px auto;
+}
+
+#nosotros{
+    height: 300px;
+    width: 400px;
+}
+footer{
+    background-color: lightgrey;
+
+}
+
+footer a {
+    text-decoration: none;
+}
+
+content {
+    display: grid;
+    grid-template-columns: 80% 20%;
+}
+.novedades{
+    display: flex;
+    flex-direction: ;
+
+}
